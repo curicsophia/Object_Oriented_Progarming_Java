@@ -1,3 +1,6 @@
+The code source is located in:
+Object_Oriented_Progarming_Java\Hello_World\src\hello_world\Hello_Word.java
+
 Inheritance is a mechanism where  the child class inherits fields and methods from the parent class.
 The child instance can be used in places where the parent instance is required.
 
