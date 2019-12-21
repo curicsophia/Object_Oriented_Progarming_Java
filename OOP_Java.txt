@@ -1,0 +1,15 @@
+Inheritance is a mechanism where  the child class inherits fields and methods from the parent class.
+The child instance can be used in places where the parent instance is required.
+
+Encapsulation is a mechanism that binds together code and the data it manipulates in a single unit.
+If the data fields are made private you cannot access them and only the class methods can modify them.
+This protects the data form incorrect useage.
+
+Compile time polymorphism which is also known as static polymorphism.
+This type of polymorphism is achieved by method overloading or operator overloading.
+For example a method behaves differently when called with different type parameters.
+
+Runtime polymorphism which is also known as Dynamic Method Dispatch. 
+It is a process in which a function call to the overridden method is resolved at Runtime. 
+For example using a child instance instead of a parent instance will result in calling the child's method instead of calling the
+parent's method.
